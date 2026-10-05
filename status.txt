@@ -6,14 +6,14 @@
 👨‍💻 Developer             : Hasan Ahmed
 ⚙️ Engine                : IPTV Premium Auto Engine v7.3
 📊 Run Status            : 🟢 SUCCESS
-🆔 Run ID                : 20261005-210953
-⏱️ Runtime               : 28.36s
-🕐 Finished              : 2026-10-05 21:10:22 BDT
+🆔 Run ID                : 20261005-212335
+⏱️ Runtime               : 24.69s
+🕐 Finished              : 2026-10-05 21:24:00 BDT
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎯 EXACT CHANNEL WHITELIST
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📋 Configured names      : 27
+📋 Configured names      : 93
 🎯 Candidates matched     : 0
 🔒 Policy                 : EXACT name only
    • Case differences    : allowed
@@ -44,25 +44,25 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📦 Combined candidates  : 0
 🎯 Exact-name matches   : 0
-♻️ Duplicates removed   : 121,851
+♻️ Duplicates removed   : 121,873
 📌 Manual links added   : 0
-📂 Existing found       : 19
+📂 Existing found       : 41
 📂 Existing kept        : 0
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🧪 HEALTH CHECK
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔍 Checked              : 95
-🟢 Live                 : 91
-🔴 Dead                 : 4
+🔍 Checked              : 187
+🟢 Live                 : 178
+🔴 Dead                 : 9
 📌 Check limit          : 12,000
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 FINAL PLAYLIST
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🟢 Live streams         : 41
-📺 Channels             : 23
-🗂️ Categories           : 9
+🟢 Live streams         : 90
+📺 Channels             : 52
+🗂️ Categories           : 18
 🌍 Countries            : 0
 🗣️ Languages            : 0
 📡 Max streams/channel  : 2
@@ -83,7 +83,7 @@
 📦 Repository           : f6388600-ai/iptv-auto-playlist
 🌿 Branch              : main
 📄 Playlist             : playlist.m3u
-🟢 Published            : YES
+🟢 Published            : NO
 
 ╔══════════════════════════════════════════════════════════╗
 ║        ✅ SCRAPE & PUBLISH COMPLETED                    ║
