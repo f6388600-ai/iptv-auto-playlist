@@ -6,9 +6,9 @@
 👨‍💻 Developer             : Hasan Ahmed
 ⚙️ Engine                : IPTV Premium Auto Engine v7.3
 📊 Run Status            : 🟢 SUCCESS
-🆔 Run ID                : 20261009-040924
-⏱️ Runtime               : 31.32s
-🕐 Finished              : 2026-10-09 04:09:55 BDT
+🆔 Run ID                : 20261009-081518
+⏱️ Runtime               : 28.29s
+🕐 Finished              : 2026-10-09 08:15:46 BDT
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎯 EXACT CHANNEL WHITELIST
@@ -27,8 +27,8 @@
 📚 Sources configured    : 21
 🟢 Working              : 20
 🔴 Failed               : 1
-📥 Records collected    : 60,212
-♻️ Unique candidates    : 12,536
+📥 Records collected    : 60,307
+♻️ Unique candidates    : 12,549
 🎯 Record limit         : 100,000
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -44,7 +44,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📦 Combined candidates  : 0
 🎯 Exact-name matches   : 0
-♻️ Duplicates removed   : 118,795
+♻️ Duplicates removed   : 118,959
 📌 Manual links added   : 0
 📂 Existing found       : 111
 📂 Existing kept        : 0
@@ -53,8 +53,8 @@
 🧪 HEALTH CHECK
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔍 Checked              : 313
-🟢 Live                 : 285
-🔴 Dead                 : 28
+🟢 Live                 : 286
+🔴 Dead                 : 27
 📌 Check limit          : 12,000
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -62,7 +62,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🟢 Live streams         : 111
 📺 Channels             : 111
-🗂️ Categories           : 34
+🗂️ Categories           : 35
 🌍 Countries            : 0
 🗣️ Languages            : 0
 📡 Max streams/channel  : 1
@@ -83,7 +83,7 @@
 📦 Repository           : f6388600-ai/iptv-auto-playlist
 🌿 Branch              : main
 📄 Playlist             : playlist.m3u
-🟢 Published            : YES
+🟢 Published            : NO
 
 ╔══════════════════════════════════════════════════════════╗
 ║        ✅ SCRAPE & PUBLISH COMPLETED                    ║
