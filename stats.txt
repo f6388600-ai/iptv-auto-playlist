@@ -1,5 +1,5 @@
-Total live: 112
-Channels: 112
+Total live: 113
+Channels: 113
 Categories: 34
 Countries: 0
 Languages: 0
