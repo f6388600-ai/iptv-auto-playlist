@@ -7,8 +7,8 @@
 ⚙️ Engine                : IPTV Premium Auto Engine v7.3
 📊 Run Status            : 🟢 SUCCESS
 🆔 Run ID                : 20261014-075755
-⏱️ Runtime               : 28.36s
-🕐 Finished              : 2026-10-14 07:58:23 BDT
+⏱️ Runtime               : 32.91s
+🕐 Finished              : 2026-10-14 07:58:28 BDT
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎯 EXACT CHANNEL WHITELIST
@@ -83,7 +83,7 @@
 📦 Repository           : f6388600-ai/iptv-auto-playlist
 🌿 Branch              : main
 📄 Playlist             : playlist.m3u
-🟢 Published            : NO
+🟢 Published            : YES
 
 ╔══════════════════════════════════════════════════════════╗
 ║        ✅ SCRAPE & PUBLISH COMPLETED                    ║
