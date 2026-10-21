@@ -6,9 +6,9 @@
 👨‍💻 Developer             : Hasan Ahmed
 ⚙️ Engine                : IPTV Premium Auto Engine v7.3
 📊 Run Status            : 🟢 SUCCESS
-🆔 Run ID                : 20261021-042154
-⏱️ Runtime               : 34.79s
-🕐 Finished              : 2026-10-21 04:22:29 BDT
+🆔 Run ID                : 20261021-073955
+⏱️ Runtime               : 30.33s
+🕐 Finished              : 2026-10-21 07:40:25 BDT
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎯 EXACT CHANNEL WHITELIST
@@ -27,8 +27,8 @@
 📚 Sources configured    : 21
 🟢 Working              : 20
 🔴 Failed               : 1
-📥 Records collected    : 61,077
-♻️ Unique candidates    : 12,676
+📥 Records collected    : 60,907
+♻️ Unique candidates    : 12,650
 🎯 Record limit         : 100,000
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -44,7 +44,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📦 Combined candidates  : 0
 🎯 Exact-name matches   : 0
-♻️ Duplicates removed   : 136,415
+♻️ Duplicates removed   : 136,124
 📌 Manual links added   : 0
 📂 Existing found       : 111
 📂 Existing kept        : 0
@@ -53,15 +53,15 @@
 🧪 HEALTH CHECK
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔍 Checked              : 362
-🟢 Live                 : 334
-🔴 Dead                 : 28
+🟢 Live                 : 326
+🔴 Dead                 : 36
 📌 Check limit          : 12,000
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 FINAL PLAYLIST
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🟢 Live streams         : 121
-📺 Channels             : 121
+🟢 Live streams         : 122
+📺 Channels             : 122
 🗂️ Categories           : 35
 🌍 Countries            : 0
 🗣️ Languages            : 0
@@ -83,7 +83,7 @@
 📦 Repository           : f6388600-ai/iptv-auto-playlist
 🌿 Branch              : main
 📄 Playlist             : playlist.m3u
-🟢 Published            : YES
+🟢 Published            : NO
 
 ╔══════════════════════════════════════════════════════════╗
 ║        ✅ SCRAPE & PUBLISH COMPLETED                    ║
