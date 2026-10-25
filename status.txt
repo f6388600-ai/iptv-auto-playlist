@@ -6,9 +6,9 @@
 👨‍💻 Developer             : Hasan Ahmed
 ⚙️ Engine                : IPTV Premium Auto Engine v7.3
 📊 Run Status            : 🟢 SUCCESS
-🆔 Run ID                : 20261025-174746
-⏱️ Runtime               : 73.8s
-🕐 Finished              : 2026-10-25 17:48:59 BDT
+🆔 Run ID                : 20261025-223057
+⏱️ Runtime               : 31.99s
+🕐 Finished              : 2026-10-25 22:31:29 BDT
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎯 EXACT CHANNEL WHITELIST
@@ -34,8 +34,8 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🗄️ MONGODB DATABASE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📥 Records read         : 69,288
-🎯 Usable candidates    : 69,288
+📥 Records read         : 59,112
+🎯 Usable candidates    : 59,112
 📦 Record limit         : 1,000,000
 🔗 Status               : 🟢 Connected
 
@@ -44,7 +44,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📦 Combined candidates  : 0
 🎯 Exact-name matches   : 0
-♻️ Duplicates removed   : 140,832
+♻️ Duplicates removed   : 140,916
 📌 Manual links added   : 0
 📂 Existing found       : 111
 📂 Existing kept        : 0
@@ -52,16 +52,16 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🧪 HEALTH CHECK
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔍 Checked              : 810
-🟢 Live                 : 354
-🔴 Dead                 : 456
+🔍 Checked              : 357
+🟢 Live                 : 322
+🔴 Dead                 : 35
 📌 Check limit          : 12,000
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 FINAL PLAYLIST
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🟢 Live streams         : 129
-📺 Channels             : 129
+🟢 Live streams         : 122
+📺 Channels             : 122
 🗂️ Categories           : 34
 🌍 Countries            : 0
 🗣️ Languages            : 0
@@ -83,7 +83,7 @@
 📦 Repository           : f6388600-ai/iptv-auto-playlist
 🌿 Branch              : main
 📄 Playlist             : playlist.m3u
-🟢 Published            : YES
+🟢 Published            : NO
 
 ╔══════════════════════════════════════════════════════════╗
 ║        ✅ SCRAPE & PUBLISH COMPLETED                    ║
