@@ -6,9 +6,9 @@
 👨‍💻 Developer             : Hasan Ahmed
 ⚙️ Engine                : IPTV Premium Auto Engine v7.3
 📊 Run Status            : 🟢 SUCCESS
-🆔 Run ID                : 20261101-020159
-⏱️ Runtime               : 32.69s
-🕐 Finished              : 2026-11-01 02:02:32 BDT
+🆔 Run ID                : 20261101-052646
+⏱️ Runtime               : 30.82s
+🕐 Finished              : 2026-11-01 05:27:17 BDT
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎯 EXACT CHANNEL WHITELIST
@@ -53,16 +53,16 @@
 🧪 HEALTH CHECK
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔍 Checked              : 327
-🟢 Live                 : 309
-🔴 Dead                 : 18
+🟢 Live                 : 299
+🔴 Dead                 : 28
 📌 Check limit          : 12,000
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📺 FINAL PLAYLIST
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🟢 Live streams         : 123
-📺 Channels             : 123
-🗂️ Categories           : 33
+🟢 Live streams         : 120
+📺 Channels             : 120
+🗂️ Categories           : 36
 🌍 Countries            : 0
 🗣️ Languages            : 0
 📡 Max streams/channel  : 1
@@ -83,7 +83,7 @@
 📦 Repository           : f6388600-ai/iptv-auto-playlist
 🌿 Branch              : main
 📄 Playlist             : playlist.m3u
-🟢 Published            : YES
+🟢 Published            : NO
 
 ╔══════════════════════════════════════════════════════════╗
 ║        ✅ SCRAPE & PUBLISH COMPLETED                    ║
